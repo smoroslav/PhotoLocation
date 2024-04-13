@@ -5,7 +5,6 @@ import { useSortByDate } from "../hooks/useSortByDate";
 import Geocoding from "./Geocoding";
 import Sidebar from "./expanded/Sidebar";
 import MapEmbedded from "./expanded/MapEmbedded";
-import MetadataItem from "./expanded/MetadataItem";
 import ImageViewer from "./expanded/ImageViewer";
 import GeneralInfo from "./expanded/GeneralInfo";
 import AccordionPanel from "./expanded/AccordionPanel";
