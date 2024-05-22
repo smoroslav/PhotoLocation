@@ -1,8 +1,30 @@
-# React + Vite
+# Find location of your photos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+See on map where you have taken your photo.  
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+
+
+
+Demo: https://smoroslav.github.io/PhotoLocation
+
+Application does not upload images to any server, everything stays local.  
+Works for all photos taken by smartphones with location enabled.  
+
+
+
+This is hobby project demonstrating functional programming in ReactJS.
+
+Examples of using:  
+- Leaflet
+- OpenStreetMap
+- Redux
+- Router
+- Custom Hooks
+- Exif data
+- Geocoding
+- Styled components
+- MaterialUI
+
